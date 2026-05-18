@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @neelballare
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning coding.
 - 💞️ I’m looking to collaborate on projects which can solve real life problems.
 - ⚡ Fun fact: Every great programmer started out as a beginner who didn’t know what they were doing.
 
